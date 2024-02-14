@@ -1,1 +1,1 @@
-package com.NumberGame;
+package com.GradeCalculator;
